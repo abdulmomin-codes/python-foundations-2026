@@ -1,0 +1,3 @@
+2026-11-11 10:05:19 ERROR Database connection timed out after 30s
+2026-11-11 10:12:33 ERROR Failed to process payment for order_id=8891
+2026-11-11 10:21:05 ERROR Unhandled exception in worker thread 4

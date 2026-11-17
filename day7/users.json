@@ -1,0 +1,11 @@
+{
+    "user_id": 1042,
+    "username": "dev_explorer",
+    "email": "explorer@example.com",
+    "active": true,
+    "roles": [
+        "member",
+        "contributor"
+    ],
+    "login_count": 14
+}
