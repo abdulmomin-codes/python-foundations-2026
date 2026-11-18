@@ -1,3 +1,8 @@
+#Write a script file_manager.py that uses the built-in pathlib.Path module to 
+#inspect the current working directory, print all file names ending in .py,
+#create a subdirectory named temp_logs if it doesn't exist,
+#and guard all execution under if __name__ == "__main__":.
+
 from pathlib import Path
 
 
